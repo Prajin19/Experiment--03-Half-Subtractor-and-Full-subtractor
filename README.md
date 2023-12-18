@@ -1,3 +1,5 @@
+# Name: Prajin s
+# Register numer: 23012918
 # Experiment  03:Half Subtractor and Full subtractor
 ## Implementation of Half subtractor and Full subtractor circuit
 ## AIM:
